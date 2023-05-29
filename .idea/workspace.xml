@@ -4,14 +4,37 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1637fb0b-c925-48b9-bc83-f5b9fd2d7b95" name="Changes" comment="" />
+    <list default="true" id="1637fb0b-c925-48b9-bc83-f5b9fd2d7b95" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/TestRestServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TestRestServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controller/MyController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controller/MyController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/model/Response.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/model/Response.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ModifyErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ModifyErrorMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ModifyRequestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ModifyRequestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ModifyRequestSystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ModifyRequestSystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ModifySystemTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ModifySystemTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/ModifyUid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/ModifyUid.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/service/MyModifyService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/MyModifyService.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2QTXCizJ3dmaPFoHQ2hdV87Ne2x" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -21,10 +44,23 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15234375",
+    "project.structure.side.proportion": "0.4229885"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="service" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
